@@ -1,5 +1,5 @@
 body{
-	padding-top: 200px;
+	padding-top: 150px;
 	background: url(http://info7.blob.core.windows.net.optimalcdn.com/images/2016/11/11/631525_parque-los-olivos.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -9,6 +9,11 @@ body{
 .jumbotron{
     opacity: 0.9;
    
+}
+
+#h1F{
+
+	font-size: 120%;
 }
 
 
