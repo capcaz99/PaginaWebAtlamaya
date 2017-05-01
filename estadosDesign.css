@@ -1,5 +1,6 @@
 body{
-	padding-top: 50px;
+	padding-top: 100px;
+
 }
 
 .navbar{
@@ -15,3 +16,13 @@ body{
 	color: white;
 }
 
+/*.thumbnail{
+	background: #AFFFFF;
+
+	border: 2px solid #5E88FC;
+}*/
+
+.jumbotron{
+	background: #00A4FF;
+	color:white;
+}

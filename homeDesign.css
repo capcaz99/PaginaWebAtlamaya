@@ -1,5 +1,6 @@
 body{
-	padding-top: 50px;
+	padding-top: 30px;
+	
 }
 
 .navbar{
@@ -14,4 +15,24 @@ body{
 .navbar-inverse .navbar-brand{
 	color: white;
 }
+
+#fD{
+	background-color: #5E88FC;
+	text-align: center;
+	padding-top: 125px;
+	/*padding-bottom: 70px;*/
+}
+
+#imgAt{
+	vertical-align: middle;
+}
+
+#fD1{
+	background-color: white;
+}
+
+.container{
+	padding-top: 50px;
+}
+
 
