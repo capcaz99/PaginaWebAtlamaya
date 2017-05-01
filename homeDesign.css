@@ -1,5 +1,5 @@
 body{
-	padding-top: 30px;
+	padding-top: 100px;
 	
 }
 
@@ -35,4 +35,11 @@ body{
 	padding-top: 50px;
 }
 
+.jumbotron{
+	background: #5E88FC;
+	color:white;
+}
 
+h3{
+	font-size: 35px;
+}
