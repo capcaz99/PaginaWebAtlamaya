@@ -1,5 +1,5 @@
 body{
-	padding-top: 50px;
+	padding-top: 100px;
 }
 
 .navbar{
@@ -13,5 +13,10 @@ body{
 
 .navbar-inverse .navbar-brand{
 	color: white;
+}
+
+.jumbotron{
+	background: #5E88FC;
+	color:white;
 }
 
